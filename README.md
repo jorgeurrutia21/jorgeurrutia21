@@ -8,26 +8,16 @@
 </p>
 
 <p align="center">
-<<<<<<< HEAD
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=65&pause=1200&color=75d41d&background=00000000&center=true&vCenter=true&width=900&height=120&lines=%3CIT+Support+Analyst/%3E;%3CFront-End+Developer+Trainee/%3E;%3CVue.js+%7C+JavaScript+%7C+HTML+%7C+CSS/%3E" />
 </p>
-=======
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=65&pause=1200&color=75d41d&background=00000000&center=true&vCenter=true&width=880&height=120&lines=%3CFront-End+Developer" />
-</p>
-
-
-
-<p align="center">
-Front-End Development Student
-Building web experiences with HTML, JavaScript, and Vue.js.</p>
->>>>>>> 2d418a58a466662e9cc6ee4e66e9fc00a05a2c45
 
 <br/>
 
 <p align="center">
-Técnico en Soporte TI con experiencia en entornos corporativos y resolución de incidencias.  
-En formación como Front-End Developer, desarrollando habilidades en JavaScript, Vue.js, HTML y CSS.
+IT Support Technician with experience in corporate environments and incident resolution.  
+Currently training as a Front-End Developer, developing skills in JavaScript, Vue.js, HTML, and CSS.
 </p>
+
 </br>
 
 <h3 align="center">IT Support & Systems</h3>
